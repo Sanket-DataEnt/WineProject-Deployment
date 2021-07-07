@@ -27,6 +27,10 @@ init dvc
 # 5. Adding data to dvc
 
 ```bash
+Download data from [here](https://drive.google.com/drive/folders/18zqQiCJVgF7uzXgfbIJ-04zgz1ItNfF5?usp=sharing)
+```
+
+```bash
 dvc add data_given/winequality.csv
 ```
 
