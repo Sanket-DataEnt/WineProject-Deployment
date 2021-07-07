@@ -34,4 +34,20 @@ Download data from [here](https://drive.google.com/drive/folders/18zqQiCJVgF7uzX
 dvc add data_given/winequality.csv
 ```
 
+# 6. Add and commit all the data to local
+
+```bash
+git add . && git commit -m "introductory commit"
+```
+
+# 6. Now create an empty repository on github and use the below command to push all the things in repo
+
+```bash
+git remote add origin https://github.com/XXXXX/XXX.git
+git branch -M main
+git push origin main
+```
+
+
+
 
